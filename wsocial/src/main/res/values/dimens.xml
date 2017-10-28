@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="wsocial_decoration_title_height">30dp</dimen>
+    <dimen name="wsocial_decoration_title_fontsize">14dp</dimen>
+    <dimen name="wsocial_decoration_title_start_margin">0dp</dimen>
+    <dimen name="wsocial_navigators_textsize">12dp</dimen>
+</resources>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="smiley_jindian">
+        <item>jindian/jd001.png,{:16_0001:}</item>
+        <item>jindian/jd002.png,{:16_0002:}</item>
+        <item>jindian/jd003.png,{:16_0003:}</item>
+        <item>jindian/jd004.png,{:16_0004:}</item>
+        <item>jindian/jd005.png,{:16_0005:}</item>
+        <item>jindian/jd006.png,{:16_0006:}</item>
+        <item>jindian/jd007.png,{:16_0007:}</item>
+        <item>jindian/jd008.png,{:16_0008:}</item>
+        <item>jindian/jd009.png,{:16_0009:}</item>
+        <item>jindian/jd010.png,{:16_0010:}</item>
+        <item>jindian/jd011.png,{:16_0011:}</item>
+        <item>jindian/jd012.png,{:16_0012:}</item>
+        <item>jindian/jd013.png,{:16_0013:}</item>
+        <item>jindian/jd014.png,{:16_0014:}</item>
+        <item>jindian/jd015.png,{:16_0015:}</item>
+        <item>jindian/jd016.png,{:16_0016:}</item>
+        <item>jindian/jd017.png,{:16_0017:}</item>
+
+        <item>jindian/tb014.png,{:16_998:}</item>
+        <item>jindian/tb025.png,{:16_1016:}</item>
+        <item>jindian/tb016.png,{:16_1017:}</item>
+        <item>jindian/tb003.png,{:16_1018:}</item>
+        <item>jindian/tb005.png,{:16_1019:}</item>
+        <item>jindian/tb010.png,{:16_1020:}</item>
+        <item>jindian/tb032.png,{:16_1021:}</item>
+        <item>jindian/tb011.png,{:16_1022:}</item>
+        <item>jindian/tb017.png,{:16_1023:}</item>
+        <item>jindian/tb009.png,{:16_1024:}</item>
+        <item>jindian/tb006.png,{:16_1025:}</item>
+        <item>jindian/tb007.png,{:16_1026:}</item>
+        <item>jindian/tb029.png,{:16_1027:}</item>
+        <item>jindian/tb015.png,{:16_1028:}</item>
+        <item>jindian/tb023.png,{:16_1029:}</item>
+        <item>jindian/tb021.png,{:16_1015:}</item>
+        <item>jindian/tb001.png,{:16_1014:}</item>
+        <item>jindian/tb008.png,{:16_1013:}</item>
+        <item>jindian/tb013.png,{:16_999:}</item>
+        <item>jindian/tb012.png,{:16_1000:}</item>
+        <item>jindian/tb004.png,{:16_1001:}</item>
+        <item>jindian/tb027.png,{:16_1002:}</item>
+        <item>jindian/tb024.png,{:16_1003:}</item>
+        <item>jindian/tb033.png,{:16_1004:}</item>
+        <item>jindian/tb028.png,{:16_1005:}</item>
+        <item>jindian/tb002.png,{:16_1006:}</item>
+        <item>jindian/tb020.png,{:16_1007:}</item>
+        <item>jindian/tb026.png,{:16_1008:}</item>
+        <item>jindian/tb018.png,{:16_1009:}</item>
+        <item>jindian/tb030.png,{:16_1010:}</item>
+        <item>jindian/tb022.png,{:16_1011:}</item>
+        <item>jindian/tb031.png,{:16_1012:}</item>
+        <item>jindian/tb019.png,{:16_1030:}</item>
+    </string-array>
+
+    <string-array name="smiley_acn">
+        <item>acn/acn006.png,{:15_963:}</item>
+        <item>acn/acn017.png,{:15_968:}</item>
+        <item>acn/acn016.png,{:15_970:}</item>
+        <item>acn/acn009.png,{:15_971:}</item>
+        <item>acn/acn010.png,{:15_972:}</item>
+        <item>acn/acn020.png,{:15_962:}</item>
+        <item>acn/acn013.png,{:15_957:}</item>
+        <item>acn/acn024.png,{:15_960:}</item>
+        <item>acn/acn005.png,{:15_986:}</item>
+        <item>acn/acn018.png,{:15_985:}</item>
+        <item>acn/acn008.png,{:15_977:}</item>
+        <item>acn/acn014.png,{:15_980:}</item>
+        <item>acn/acn001.png,{:15_981:}</item>
+        <item>acn/acn022.png,{:15_982:}</item>
+        <item>acn/acn002.png,{:15_917:}</item>
+        <item>acn/acn011.png,{:15_904:}</item>
+        <item>acn/acn004.png,{:15_924:}</item>
+        <item>acn/acn007.png,{:15_938:}</item>
+        <item>acn/acn003.png,{:15_939:}</item>
+        <item>acn/acn012.png,{:15_929:}</item>
+        <item>acn/acn019.png,{:15_932:}</item>
+        <item>acn/acn015.png,{:15_933:}</item>
+        <item>acn/acn021.png,{:15_934:}</item>
+    </string-array>
+
+    <string-array name="smiley_ywz">
+        <item>๑乛◡乛๑</item>
+        <item>(/ω·＼*)</item>
+        <item>(๑⁼̴̀д⁼̴́๑)</item>
+        <item>(๑•॒̀ ູ॒•́๑)</item>
+        <item>("▔□▔)</item>
+        <item>( ꒪Д꒪)</item>
+        <item>( ･᷄д･᷅ )</item>
+        <item>눈_눈</item>
+        <item>Ծ‸Ծ</item>
+        <item>w(ﾟДﾟ)w</item>
+        <item>(ಥ_ಥ)</item>
+        <item>(◕‿◕✿)</item>
+        <item>(⌒▽⌒)</item>
+        <item>(･∀･)</item>
+        <item>(°∀°)ﾉ</item>
+        <item>(￣3￣)</item>
+        <item>←_←</item>
+        <item>→_→</item>
+        <item>(;¬_¬)</item>
+        <item>Σ(ﾟдﾟ;)</item>
+        <item>（/TДT)/</item>
+        <item>(｡･ω･｡)</item>
+        <item>(´･_･`)</item>
+        <item>(-_-#)</item>
+        <item>ヽ(`Д´)ﾉ</item>
+    </string-array>
+
+</resources>
