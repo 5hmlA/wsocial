@@ -46,7 +46,7 @@ public class SmileyContainer extends FrameLayout {
         paint.setColor(getResources().getColor(R.color.wsocial_emoji_pannel_divid_top));
         paint.setStyle(Paint.Style.STROKE);
         paint.setStrokeWidth(.5f);
-
+        setClickable(true);
         smileyView = new SmileyView(getContext());
         smileyView.setLayoutParams(new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.MATCH_PARENT));
         addView(smileyView);
